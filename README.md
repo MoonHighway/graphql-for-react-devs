@@ -23,6 +23,7 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 
 ### GraphQL Schema Definition Language
 
+- [Schema Start Files](https://github.com/graphqlworkshop/snowtooth-schema)
 - [Slides for Reference](https://slides.com/moonhighway/schema-definition-language/)
 - [Schema Design Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 
