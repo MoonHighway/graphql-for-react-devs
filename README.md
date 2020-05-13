@@ -23,8 +23,7 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 
 ### GraphQL Schema Definition Language
 
-- [Pet Library Schema Project](https://github.com/MoonHighway/pet-library-schema)
-- [Slides](https://slides.com/moonhighway/schema-definition-language/)
+- [Slides for Reference](https://slides.com/moonhighway/schema-definition-language/)
 - [Schema Design Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 
 ### GraphQL API Info
