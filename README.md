@@ -26,8 +26,9 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [Slides for Reference](https://slides.com/moonhighway/schema-definition-language/)
 - [Schema Design Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 
-### GraphQL API Info
+### Example GraphQL APIs
 
+- [Snowtooth API](https://github.com/graphqlworkshop/snowtooth-api/tree/complete)
 - [Pet Library API](https://github.com/MoonHighway/pet-library)
 
 ### Apollo Client
@@ -53,6 +54,7 @@ curl -X POST \
 
 ## Next Steps
 
+- [Pet Library with Relay](https://github.com/eveporcello/pet-library-demo)
 - [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 - [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
 - [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
